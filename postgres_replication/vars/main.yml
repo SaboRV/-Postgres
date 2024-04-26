@@ -1,0 +1,3 @@
+---
+allow_world_readable_tmpfiles: true
+# vars file for postgres_replication
